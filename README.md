@@ -1,2 +1,2 @@
-# Criacao_CRUD--PostgreSQL-asp.net-core
+# Aplicação CRUD--PostgreSQL-asp.net-core
 Projeto de CRUD
