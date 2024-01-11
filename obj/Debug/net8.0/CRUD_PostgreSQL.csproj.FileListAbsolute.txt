@@ -1,0 +1,7 @@
+C:\Users\daniel.cabral\Desktop\CRUD_PostgreSQL\obj\Debug\net8.0\CRUD_PostgreSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.cabral\Desktop\CRUD_PostgreSQL\obj\Debug\net8.0\CRUD_PostgreSQL.AssemblyInfoInputs.cache
+C:\Users\daniel.cabral\Desktop\CRUD_PostgreSQL\obj\Debug\net8.0\CRUD_PostgreSQL.AssemblyInfo.cs
+C:\Users\daniel.cabral\Desktop\CRUD_PostgreSQL\obj\Debug\net8.0\CRUD_PostgreSQL.csproj.CoreCompileInputs.cache
+C:\Users\daniel.cabral\Desktop\CRUD_PostgreSQL\obj\Debug\net8.0\CRUD_PostgreSQL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\daniel.cabral\Desktop\CRUD_PostgreSQL\obj\Debug\net8.0\CRUD_PostgreSQL.RazorAssemblyInfo.cache
+C:\Users\daniel.cabral\Desktop\CRUD_PostgreSQL\obj\Debug\net8.0\CRUD_PostgreSQL.RazorAssemblyInfo.cs
